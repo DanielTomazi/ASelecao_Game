@@ -28,7 +28,7 @@ int main() {
     personagens.push_back(Personagem("America", "Esposa de Maxon, herdeira do trono de illea juntamente com ele."));
     personagens.push_back(Personagem("Luci", "Amiga de America."));
     personagens.push_back(Personagem("Aspen", "Guarda real do castelo."));
-    personagens.push_back(Personagem("Princesa Guerreira de Illea", "Lendaria guerreira do país, gentil, bondosa e altruista."));
+    personagens.push_back(Personagem("Princesa Guerreira de Illea", "Lendaria guerreira do país, bonita, gentil, bondosa e altruista."));
 
     // Exemplo de uso: listar os personagens
     std::cout << "Personagens do jogo:" << std::endl;
